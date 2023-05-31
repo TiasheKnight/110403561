@@ -1,0 +1,270 @@
+[![Review Assignment Due Date]( https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg )](https://classroom.github.com/a/ sKvM9iwt )
+# 111 Academic Year Second Semester【Programming-Python】Final Exam## Examination Notes 1. The final exam questions are divided into **application questions** and **program questions**, a total of 140 points, out of 100 points 1. **application Topic**, 10 questions in total, 2 points for each question, no standard answer, you only need to write more than 20 words for each question, and you can get points (if there are less than 20 words, please use `=` symbols to fill in)
+1. **Program questions**, a total of 12 questions, 10 points each, must design a function, according to the requirements of the question, return (return) the correct content. The calculation host is a single-core CPU, and the maximum calculation time for each question shall not exceed 10 seconds. If it exceeds 10 seconds, it is deemed that the question has not been answered correctly.
+1. This test is an Open Book, you can use any network resources but you are not allowed to ask others, ask others or find a gunman to answer for you. If the report is established, the score of this test will be 0. ”Check your instant answer results at any time 1. Automatic scoring dashboard URL: [ https://ncuedu.tw/g/e/1112/python](https://ncuedu.tw/g/e/1112/python)
+1. Please use `Python Native Basic Grammar` to complete the answer, `do not import` any modules ## Exam Questions ### 4 points for each question 1. [e00.py](./exam/e/e00.py )\
+    Scenario Description: The program assignment rules for this semester are:
+    1. Mid-term exam: 30%
+    1. Personal project at the end of the term (written report submitted to Github): 10%
+    1. Computer-based programming test at the end of the term: 30%
+    1. Learning process (Github Discussion online interactive discussion, Github TeamWork group team management): 10%
+    1. Exercises: 20%
+    
+    > Github Discussion Online Interactive Discussion: The purpose is to encourage students to use words to focus on learning issues and discuss with other students online. At the same time, cultivate the habit of reading technology news and try to express personal opinions, so as to prepare for becoming an opinion leader in the future > Github Teamwork Team management in groups: The purpose is to increase opportunities for students to interact with students from other departments, and to cultivate the revolutionary emotion of learning Python together. These will be part of the future network passbook. Ask questions: **About the grade distribution of this semester, do you feel that it needs to be adjusted? Where, please describe the reason in detail**
+
+1. [e01.py](./exam/e/e01.py)\
+    Scenario description: According to Stack overflow statistics, 93.87% of software engineers will use Git as a version management tool in 2022. As of January 2020, Github has more than 40 million registered users and 190 million repositories (including at least 28 million open source code repositories), and has in fact become the world's largest code storage website and open source community. \
+    Questions to ask: **Before taking this course, do you have experience using Github? Have you ever encountered any difficulties in operation? Are you familiar with it after a semester?**
+
+1. [e02.py](./exam/e/e02.py)\
+    Scenario Description: This semester's Python 18 chapter course was completed early with everyone's hard work. In order to let everyone learn more, we taught the content of "Python Web Crawler"\
+    Ask questions: **Is the "Python Web Crawler" taught in the second half of the semester a topic you are interested in? Have you learned what you want to learn? Do you think it will help you in the future?**
+
+1. [e03.py](./exam/e/e03.py)\
+    Scenario Description: General Education Center's "Artificial Intelligence Cross-domain Credit Program" \[[fb fan course]( https://www.facebook.com/NCU.CGE.AI.PROGRAM/ )\]\[[method] ( http://140.115.103.29/wp-content/uploads/2022/01/58_59-4.pdf )\] There are many courses related to AI programming, and this course "Programming-Python" is also one of them. Most science and engineering departments have their own programming courses. I want to know the difference between the programming courses you take in the department and "Programming for this course-Python". \
+    Ask questions: **What is the grade of my department? Have you ever taken other programming courses before? Have you ever taken the programming courses in your own department? Do you think there is any difference in comparison? Any other programming courses? Want to learn those programs and why?**
+    
+1. [e04.py](./exam/e/e04.py)\
+    Scenario description: PyPal chatbot is a chatbot designed to help everyone learn Python and increase teacher-student interaction. Its functions are as follows:
+    1. Watch Python, Flask, Git and other PDF textbooks or Youtube videos 1. There are many multiple-choice questions in Python, which can be tested online to increase the impression of Python learning. During the period, I took the initiative to send a message at 12:15 noon every day, letting me know the status of the post in the last day and the score chart of the discussion area for the whole semester 1. The teacher can send instant messages to all students in the class, and important messages will not be missed. *For the PyPal learning robot, is there any practical help to your Python learning this semester? Do you think there is anything that can be improved?**
+
+1. [e05.py](./exam/e/e05.py)\
+    Situation description: I want to know how students will seek help when they encounter difficulties in learning\
+    Ask questions: **In this class, if you encounter problems, will you have the courage to ask questions? Do you think the teacher or teaching assistant can help students to express their questions more boldly?**
+
+1. [e06.py](./exam/e/e06.py)\
+    Scenario description: **Github Discussion Online Interactive Discussion** aims to encourage students to use words to focus on learning issues and discuss with other students online. At the same time, cultivate the habit of reading technology news and try to express personal opinions, so as to prepare for becoming an opinion leader in the future. prepare for\
+    Ask questions: ** What type of articles do you often post in the [Python Discussion Forum](https://github.com/NCU-GS4719-Python/Python-Community/discussions) this semester? Which one or which ones are there? Is the article an article that you think fully expresses your personal point of view (please post the URL)?**
+
+
+1. [e07.py](./exam/e/e07.py)\
+    Situation description: Continuing from the above question, in order to encourage students to actively form their personal opinions, [1112 "Programming Python" discussion area points calculation rules] ( https://github.com/NCU-GS4719-Python/Python-Community/wiki/1112-%E3%80%8C%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88-Python%E3%80%8D%E8%A8%8E%E8%AB%96%E5%8D%80%E7%A9%8D%E5%88%86%E8%A8%88%E7%AE%97%E8%A6%8F%E5%89%87) If the content of the post is plagiarized or unable to express personal opinions, it will be marked with Emoji 👀 by the teacher, teaching assistant or AI, and the post will not be counted. Currently, articles posted to the [Python Discussion Forum]( https://github.com/NCU-GS4719-Python/Python-Community/discussions) will be checked once by AI with natural language processing and returned by a PyPal chatbot Analyze the results. \
+    Ask questions: **1. Do you think that using Emoji 👀 to mark posts with insufficient information can urge yourself to publish personal opinion articles? 2. Because the time of posting is not fixed (students may post late at night), teachers or teaching assistants cannot real-time Respond to judge whether it is a personal opinion article, so through AI natural language analysis to judge whether there is a personal opinion in real time, if the amount of personal opinion information is insufficient, it will be automatically marked with Emoji 👀 in real time. Currently, the accuracy of AI in judging the amount of information in an article is about 70% . Based on the above information, do you think that using AI to replace teachers and teaching assistants to judge the amount of information in articles can help yourself and remind yourself to publish articles with personal opinions?**
+
+
+1. [e08.py](./exam/e/e08.py)\
+    Scenario description: The reason why the study groups are randomly generated is that "we will not be able to choose our colleagues in the future", so we randomly generate group members to experience real interpersonal situations. \
+    Ask questions: **Have you met students from different majors through the group discussion of the course? What impressed you most during the group discussion?**
+
+    
+1. [e09.py](./exam/e/e09.py)\
+    Scenario Description: Rate yourself and your teacher\
+    Ask questions: **Looking at the whole semester's study, how would you rate yourself for a full score of 10, and why? How would you rate the teacher for a full score of 10, and why?**
+
+
+### 10 points for each program question 1. [p00.py](./exam/p/p00.py)\
+    Input: 1, int\
+    Output: 1, `True` or `False`\
+    Function function: judge whether the input argument is a prime number, if it is a prime number, return `True`, if it is not a prime number, return `False`\
+    Automatic correction conditions limit:
+    * 1 <= n <= 2000
+
+    
+    Example 1:
+    ```
+    Input: 9
+    Output: False
+    ```
+
+    Example 2:
+    ```
+    Input: 7
+    Output: True
+    ```
+
+1. [p01.py](./exam/p/p01.py) \
+    Input: Unfixed number int or float
+    Output: 1, float
+    Function function: Return (retuen) the number with the smallest value (floating point number)
+    
+1. [p02.py](./exam/p/p02.py)\
+    Input: 2, int\
+    output: 1, int\
+    Function function: Input two integer arguments, namely a and b. Calculate and return (return) the sum of even numbers starting from a and adding to b\
+    Automatic correction conditions limit:
+    * 1 <= a, b <= 2000
+
+    Example 1:
+    ```
+    Input: a=1, b=100
+    Operation: 2+4+6+8+...+100 = 2550
+    Output: 2550
+    ```
+
+    Example 2:
+    ```
+    Input: a=1, b=9
+    Operation: 2+4+6+8
+    Output: 20
+    ```
+    
+1. [p03.py](./exam/p/p03.py)\
+    Input: 1, int\
+    output: 1, int\
+    Function function: Return (retuen) the reverse value of the input number\
+    Example 1:
+    ```
+    Input: 123
+    Output: 321
+    ```
+    Example 2:
+    ```
+    Input: -123
+    Output: -321
+    ```
+    Example 3:
+    ```
+    Input: 120
+    Output: 21
+    ```
+    
+1. [p04.py](./exam/p/p04.py)\
+    Input: 1, int composed of 2-9, unlimited number of digits\
+    Output: 1, List, containing a variable number of elements, each element is a string composed of lowercase English letters without spaces (space)\
+    Function function: return (retuen) all the possibilities of the English letter combination of the int composed of 2-9\
+    ![](./images/200px-Telephone-keypad.png)\
+    \
+    Example 1:
+    ```
+    Input: 23
+    Output: ["ad","ae","af","bd","be","bf","cd","ce","cf"]
+    ```
+    Example 2:
+    ```
+    Input: None
+    output: []
+    ```
+    Example 3:
+    ```
+    Input: 2
+    Output: ["a","b","c"]
+    ```
+    
+1. [p05.py](./exam/p/p05.py)\
+    Input: 2, among them, one argument is List `l1` containing multiple int elements, and the other argument is int `x`\
+    Output: 1, List\
+    Function: Take out the int elements less than `x` in `l1` and sort them into `l2`, the remaining elements in `l1` are `l3`, and the output value is `l2+l3`\
+    Restrictions on automatic correction conditions: the elements and `x` in `l1` are both between 0 and 200\
+    ![](./images/partition.jpg)\
+    \
+    Example 1:
+    ```
+    Input: l1 = [1,4,3,2,5,2], x = 3
+    Output: [1,2,2,4,3,5]
+    ```
+    Example 2:
+    ```
+    Input: l1 = [2,1], x = 2
+    output: [1,2]
+    ```
+
+1. [p06.py](./exam/p/p06.py)\
+    Input: 2, of which, one argument is List `nums` containing multiple int elements, and the other argument is int `target`\
+    Output: 1, List with 2 elements\
+    Function function: Input an integer array `nums` and an integer `target`, output two indexes of `nums`, make them add up to `target`\
+    Automatic correction condition restrictions:
+    * 2 <= len(nums) <= 10<sup>4</sup>
+    * -10<sup>9</sup> <= nums[i] <= 10<sup>9</sup>
+    * -10<sup>9</sup> <= target <= 10<sup>9</sup>
+    
+    \
+    Example 1:
+    ```
+    Input: nums = [2,7,11,15], target = 9
+    output: [0,1]
+    Explanation: Because nums[0] + nums[1] == 9, we return [0, 1]
+    ```
+    Example 2:
+    ```
+    Input: nums = [3,2,4], target = 6
+    output: [1,2]
+    ```
+    Example 3:
+    ```
+    Input: nums = [3,3], target = 6
+    output: [0,1]
+    ```
+
+1. [p07.py](./exam/p/p07.py) **3x3 image rotated 90 degrees clockwise**\
+    Input: 1, list, a `list` to represent a `3 x 3` 2D `matrix` image\
+    output: 1, list\
+    Function function: Rotate a `3 x 3` 2D `matrix` representing an image by 90 degrees clockwise, and automatically modify the conditional restrictions:
+    * 3 == matrix.length == matrix[i].length
+    * -1000 <= matrix[i][j] <= 1000
+    
+    Example 1:\
+    ![](./images/mat1.jpg)
+    ```
+    Input: matrix = [[1,2,3],[4,5,6],[7,8,9]]
+    Output: [[7,4,1],[8,5,2],[9,6,3]]
+    ```
+
+    Example 2:\
+    ![](./images/mat2.jpg)
+    ```
+    Input: matrix = [[5,1,9,11],[2,4,8,10],[13,3,6,7],[15,14,12,16]]
+    Output: [[15,13,2,5],[14,3,4,1],[12,6,8,9],[16,7,10,11]]
+    ```
+
+
+1. [p08.py](./exam/p/p08.py) **nxn image is rotated 90 degrees clockwise**\
+    Input: 1, list, a `list` to represent `nxn` 2D `matrix` image\
+    output: 1, list\
+    Function: Rotate an `nxn` 2D `matrix` representing an image by 90 degrees clockwise, and automatically modify the conditional restrictions:
+    * n == matrix.length == matrix[i].length
+    * 1 <= n <= 20
+    * -1000 <= matrix[i][j] <= 1000
+    
+
+1. [p09.py](./exam/p/p09.py) **nxn image rotates clockwise -360~360 degrees**\
+    Input: 2, list, int, a `list` to represent the `nxn` 2D `matrix` image, an `int` is the variable `a`, which represents the rotation angle, there are -360, -270, -180, - 90, 0, 90, 180, 270, 360 total 9 possibilities\
+    output: 1, list\
+    Function: Rotate an `nxn` 2D `matrix` representing an image clockwise at a specified angle to automatically modify conditional restrictions:
+    * a == {-360, -270, -180, -90, 0, 90, 180, 270, 360}
+    * n == matrix.length == matrix[i].length
+    * 1 <= n <= 20
+    * -1000 <= matrix[i][j] <= 1000
+
+
+1. [p10.py](./exam/p/p10.py) **Perfect Square**\
+    Input: 1, int\
+    output: 1, int\
+    Function function: Given an integer `n`, return the minimum number of perfect squares required to sum to `n`\
+    Automatic correction condition limit: 1 <= n <= 10<sup>2</sup>
+    \
+    Example 1:
+    ```
+    Input: n = 12
+    Output: 3
+    Explanation: 12 = 4 + 4 + 4
+    ```
+    Example 2:
+    ```
+    Input: n = 13
+    Output: 2
+    Explanation: 13 = 4 + 9
+    ```
+    
+
+1. [p11.py](./exam/p/p11.py) **H-Index**\
+    Input: 1, List, containing multiple int elements, indicating the number of articles cited\
+    output: 1, int\
+    Function: Input a `citations` List, which contains int elements, `len(citations)` is the total number of articles published by a certain scholar, and each element represents the number of times each article is cited by others. H-Index is a mixed quantitative index that can be used to evaluate the quantity and quality of academic output of researchers. H-Index was proposed by George Hirsch, a physicist at the University of California, San Diego, in 2005. The definition of H-Index is: "A person has N papers cited at least N times in all his academic articles, and his H-index is N". For example, among the 900 articles published by immunologist Richard Fravor of Yale University in the United States, 107 articles have been cited more than 107 times, and his H index is 107.
+    Automatic correction conditions limit:
+    * n == len(citations)
+    * 1 <= n <= 5000
+    * 0 <= citations[i] <= 1000
+    
+    \
+    Example 1:
+    ```
+    Input: citations = [3,0,6,1,5]
+    Output: 3
+    Explanation: citations = [3,0,6,1,5] means that the researcher has a total of 5 papers, and each paper received 3, 0, 6, 1, 5 citations. Since the researcher has 3 papers with at least 3 citations each and the remaining 2 papers with no more than 3 citations each, they have an H-index of 3.
+    ```
+    Example 2:
+    ```
+    Input: citations = [1,3,1]
+    Output: 1
+    ```
+    
